@@ -4,7 +4,7 @@
 
 To use this plugin, just drop the generated JAR into your application classpath.
 	
-Then add Google Analytics key by setting the Symbol `ganalytics.key` to its value (look at `GAnalyticsConstants.GANALYTICS_KEY`) .
+Then add your Google Analytics key by setting the Symbol `ganalytics.key` to its value (look at `GAnalyticsConstants.GANALYTICS_KEY`) .
 
 Run your application in `production mode`, and that's it!
 
@@ -17,14 +17,13 @@ To use this plugin, add the following dependency in your `pom.xml`.
 		<dependency>
 			<groupId>com.spreadthesource</groupId>
 			<artifactId>tapestry5-googleanalytics</artifactId>
-			<version>1.2</version>
+			<version>1.3</version>
 		</dependency>
 		...
 	</dependencies>
 	
 	<repositories>
 		...
-
 		<repository>
 			<id>devlab722-repo</id>
 			<url>http://nexus.devlab722.net/nexus/content/repositories/releases
@@ -44,7 +43,6 @@ To use this plugin, add the following dependency in your `pom.xml`.
 		</repository>
 		
 		...
-		
 	</repositories>
 
 ## More Informations & contacts
