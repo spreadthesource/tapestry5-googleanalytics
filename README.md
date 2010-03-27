@@ -50,3 +50,7 @@ To use this plugin, add the following dependency in your `pom.xml`.
 * Blog: http://spreadthesource.com
 * Twitter: http://twitter.com/spreadthesource
 
+## License
+
+This project is distributed under the Apache 2.0 License. See LICENSE.txt for more information.
+
