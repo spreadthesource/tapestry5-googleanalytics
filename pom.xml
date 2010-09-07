@@ -218,6 +218,6 @@
 	</pluginRepositories>
 
 	<properties>
-		<tapestry-release-version>5.1.0.5</tapestry-release-version>
+		<tapestry-release-version>5.2.1-SNAPSHOT</tapestry-release-version>
 	</properties>
 </project>
