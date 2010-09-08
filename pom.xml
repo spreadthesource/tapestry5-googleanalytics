@@ -158,16 +158,16 @@
 
 	<repositories>
 		<repository>
-			<id>apache</id>
-			<url>http://repository.apache.org/</url>
+			<id>sps-apache</id>
+			<url>https://repository.apache.org/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
 		</repository>
 
 		<repository>
-			<id>apache-snapshots</id>
-			<url>http://repository.apache.org/snapshots/</url>
+			<id>sps-apache-snapshots</id>
+			<url>https://repository.apache.org/snapshots/</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
